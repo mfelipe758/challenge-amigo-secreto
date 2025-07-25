@@ -74,8 +74,8 @@ Para começar a usar, siga estes passos:
 
 ## 💻 Tecnologias usadas
 
-* **HTML:**
+* **HTML**
 
-* **CSS:**
+* **CSS**
 
-* **JavaScript:**
+* **JavaScript**
